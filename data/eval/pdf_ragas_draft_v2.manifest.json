@@ -1,0 +1,200 @@
+{
+  "generator": "ragas.testset.TestsetGenerator",
+  "ragas_version": "0.4.3",
+  "status": "draft_unreviewed",
+  "requested_size": 10,
+  "actual_size": 10,
+  "query_distribution": {
+    "single_hop_specific_query_synthesizer": 1.0
+  },
+  "language": "russian",
+  "model": "gpt-4o-mini",
+  "input_pages": 50,
+  "eligible_pages": 45,
+  "selected_pages": [
+    {
+      "source": "4294852135.pdf",
+      "page": 1
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 2
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 3
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 4
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 5
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 6
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 7
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 8
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 9
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 10
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 11
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 12
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 13
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 14
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 15
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 16
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 17
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 20
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 21
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 22
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 23
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 24
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 25
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 28
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 29
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 31
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 32
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 33
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 34
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 35
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 36
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 37
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 38
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 39
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 40
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 41
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 42
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 43
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 44
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 45
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 46
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 47
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 48
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 49
+    },
+    {
+      "source": "4294852135.pdf",
+      "page": 50
+    }
+  ],
+  "corpus_hash": "62691586ee8a77be134bd02c95592cbe7b6a3cefb3f6528119ff41d36c90c919",
+  "selected_corpus_hash": "91b2731444b9640506bde9138d1b1d2a7be543b94208a19ab1bacceb6adf45cf",
+  "dataset": "data\\eval\\pdf_ragas_draft_v2.jsonl",
+  "ragas_testset": "data\\eval\\pdf_ragas_draft_v2.ragas.jsonl"
+}

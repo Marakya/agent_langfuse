@@ -1,0 +1,30 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.19.0
+    ports:
+      - "127.0.0.1:6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+  # Не нужен для SQLite. Запуск: docker compose --profile postgres up -d
+  postgres:
+    profiles: [postgres]
+    image: postgres:16.10-alpine
+    environment:
+      POSTGRES_DB: rag_chat
+      POSTGRES_USER: student
+      POSTGRES_PASSWORD: classroom_local_only
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U student -d rag_chat"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  qdrant_data:
+  postgres_data:

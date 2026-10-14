@@ -1,0 +1,1667 @@
+{
+  "extracted_at_utc": "2026-10-06T11:37:21.099740+00:00",
+  "edition_note": "Снимки текстов указанных источников; полнота включения позднейших поправок не подтверждена.",
+  "format_note": "Все текстовые разделы и таблицы извлечены из HTML. Графические символы и рисунки сохранены как изображения; RAG индексирует только текст.",
+  "documents": [
+    {
+      "standard": "ГОСТ Р 2.109-2023. Основные требования к чертежам",
+      "source_url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy.html",
+      "raw_html": "data/sources/gost/html/gost_r_2_109_2023.html",
+      "raw_sha256": "7d65031e24e4d6be304603a55ff3bbd6ed8d68a0301e5d83ced0a9a4109717ba",
+      "markdown": "data/knowledge/standards/gost_r_2_109_2023.md",
+      "markdown_sha256": "177ee6768b219c741f3aae705cc6d2f44d42e77b1b3e68c6f5bebaad3a0803e7",
+      "text_characters": 62422,
+      "markdown_characters": 67859,
+      "tables": 4,
+      "offline_html": "data/sources/gost/offline/gost_r_2_109_2023.html",
+      "illustrations": [
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_491585.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/bc9e31d739c2dd159080.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_559476.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/8cbcd9d2f1539221015a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_248533.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/97130872edeab4fd088e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_970723.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/eb42194731376994075a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_806822.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/9c8ed33e70c5a475e7dd.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_505636.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/ad47e047a19c2537b353.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_522136.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/03106234c75f4ee713eb.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_714683.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/32d758d74681be15684e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_856630.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/08bf8da4b3db6811d00f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_616968.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/1b04ae4c15c98db17b14.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_429004.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/7868d16833396b7dc3c4.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_252172.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/7964bb9d420f2e9c9272.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_788930.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/903b828339ba7f66e12a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_913722.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/4f21a5d072583b10f193.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_992035.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/da7e2af3d3fcfb808263.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_850877.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/42ef02cbcd12a919feb6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_343336.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/c0983b00060524b266da.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_573226.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/5dfb2116cc8ab99b2f87.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_471188.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/2e79e1997edd0477655b.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_638029.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/5ef5786ce2ea011f03cb.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_636352.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/587096e0083cd0f57396.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_111437.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/d806496197fe7d66c1a6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_762147.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/e2914f6c177cb9ee4a9a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_570732.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/01ec62295146f15bfbf9.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_176979.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/bd0a6ee8fbfc01f72369.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_473288.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/6b6a969fdc937be5a8fb.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_952567.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/64a8a06b418148b74cc2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_447258.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/6fa240cad7b271351468.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_219403.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/decc847498e05d3e55df.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_942155.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/c873eca3d643e8123c1d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_409271.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/c98f7043bd781953012f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_674178.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/3b54e6d80fb5db58c2ed.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_290875.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/7c4a1ad6f5b22a56be21.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_621507.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/f1b57fa2164a10318a51.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_588602.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/b209a0d003dd6c75a72e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_984684.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/3598d3992cd63f37c2bf.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_113589.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/49476854e83a480f1447.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_148197.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/13e6546dd31d289cba91.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_516438.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/7302a63b30e3e3b8ea4f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_451624.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/a9cd20ea3eae328e03f2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_517792.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/a797853d75ba6a80f447.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_430704.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/e10ec235d64bd9899dfe.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_514835.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/4881b127b7709d213a9f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_109-2023_natsionalnyy_standart_rossiyskoy_/meganorm_983191.png",
+          "path": "data/sources/gost/assets/gost_r_2_109_2023/da73e7fc90c70aeec59f.png"
+        }
+      ]
+    },
+    {
+      "standard": "ГОСТ Р 2.104-2023. Основные надписи",
+      "source_url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy.html",
+      "raw_html": "data/sources/gost/html/gost_r_2_104_2023.html",
+      "raw_sha256": "3b428e3c690a46750bdd752d7f1e6bee53ff049ae2e00218c1f90dc5c1ef9cd4",
+      "markdown": "data/knowledge/standards/gost_r_2_104_2023.md",
+      "markdown_sha256": "c5d805886e48ad4fe09a2eca12ea7b65b39a503d1fd68450d87985a4a8fab5d5",
+      "text_characters": 33660,
+      "markdown_characters": 46623,
+      "tables": 4,
+      "offline_html": "data/sources/gost/offline/gost_r_2_104_2023.html",
+      "illustrations": [
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_476025.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/2ae30420cc41f76817ae.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_537883.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c1169963fba739d78d21.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_869431.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/bdfffd74ac436ee4720d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_670956.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/a1c96f582a932f21d599.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_749437.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/3eaea8e50982f77a242a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_765422.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/675254bd7199c8c58896.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_917441.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/604d049a9a823632fc14.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_727901.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/00d982f985886341d7eb.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_605595.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/a6302bbca1e19b5b49fd.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_465911.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/3a7bad5f54e142aee8a8.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_350847.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/9903113361d40544093f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_353137.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/700c02f8867747aedab3.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_594768.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/df5d7623d942638f2d08.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_585183.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/380406af774b65d6c3fc.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_490447.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/cdcb20c69425ade53b42.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_979219.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f161d5b89702722dbcb8.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_924377.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/bb6d29121b1553c1bc95.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_406910.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/fc312016f6275cdab51e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_323587.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/0a9db2f7701e2a32d60d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_434477.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/8d869338319b7eabcace.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_292436.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/ca457c3c5e14c5448db2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_236397.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/7bbfd28030b05b6d4d16.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_573178.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c2977351463b5a30b157.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_574470.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/0fe88f56b9e0323610d2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_832314.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/a8ab7dc829083f0d5d80.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_365969.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/12054214adf0546434a6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_963521.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/12a29769b3d44c26935c.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_350590.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/ab21cb960dfcf0d0b387.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_455174.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/3a59759a4aab65d9ccf0.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_653907.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/5b55c0125c2ce8892e6d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_383649.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/1ed8a30f4eb620bf8794.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_767388.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/ff20bff231b1c1f70b80.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_388510.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/41ecf91f26025760e704.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_688302.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/b716c0ace3190f75ee79.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_394350.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/bc37d20793751bbcfe46.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_576175.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/b5134e518ffe2ee5bf69.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_365811.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/756ad82d4044e671af59.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_681767.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/ab07f075dab5a4cf7d07.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_853506.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/a714a55e830b2b01eaa0.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_339002.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/735ab8ef513daabd7501.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_719099.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f3655ed56345097ccdd4.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_294002.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/422e4b8794c171f479bd.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_951086.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c957cdf0c200faa5de3f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_203345.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/182a864e0eca0a9bc52d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_198544.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/cdede44d44887daebf5b.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_211284.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c84fa57a57767a733156.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_813804.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/a73c3cef4617dca7c63b.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_244291.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/b6821eb09de23d370927.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_964131.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/92556c7c46e8b5296906.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_861790.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/29e2e0dc26fe35bf2edd.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_469674.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c6c95b33d84d2b34441c.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_849056.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/929ad5b639312af37ab2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_342265.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/aff3075ae46d9e6149d7.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_290897.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c2535317f4935ced7dce.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_705749.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/8b53067f81fc7d84f5bc.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_515991.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/e9351a0910cbb70603ce.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_430009.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/6ad262ceb2ac9f5cc791.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_418895.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/adf5186a59255d23c985.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_571212.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/3287a8f4f1a4f4499a01.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_659340.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/9342cf8f2893e911dda8.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_679479.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/2b9bfb6e36eb00663729.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_423903.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/2485a57ac84f6ce6199a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_333487.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/7ee0cc32e9bc8d15e6b7.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_115794.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/9850f46acda2ed09b1b6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_936574.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/2137923cde640180b22c.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_309039.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/bafc02b79a82f7b4cc8a.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_588337.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f701f388045dfa12a0ee.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_190472.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/444d8655f54606ef7922.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_408301.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/83eef99c582fdf3a14d1.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_329849.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/305a46363a4e81956815.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_451906.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/53dd5891d236cce175cc.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_556720.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/41f164e1e8bad2948e9e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_220045.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/e037b33e9ce7c71446f7.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_996557.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/e36ea6939b4638c5f80d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_701302.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/74efde19eebdd937164c.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_840560.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/81f17bc0091d17142cb9.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_841543.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/10e5df83536502c1c1d5.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_574391.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/607344db2abe83db0822.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_815239.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/2bc524ace51e15025dbd.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_451894.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f8fdb5e1bc60775dc5cf.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_402268.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/28240204b19808f719a2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_892329.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/64e8e8d0a8905fa8644e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_373040.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/4fd438e889fb9c2b30ad.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_665354.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/86b5bd39923bb05eef30.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_188148.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c83336560992b5f98bd3.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_133667.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/7c006149e0e928dc347d.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_804810.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/6deb29d46fe32a4b1ba6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_868553.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/76553cdbd4860b3c5f39.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_228150.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/cfeffd5c2a5418011ab6.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_924892.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/64e0fa3853b7b44552c5.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_337458.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/42f9caa0a814a81923eb.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_788656.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f1adefde4c5162ff1595.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_787222.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/4337726abce85a1a31aa.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_714114.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/e74b715a9d52e936a81c.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_693776.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/e228ece0a15e7f3ba1aa.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_278472.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/765db6c7850e3ba80743.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_690631.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/609a54f59e4a7ff63b4e.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_433930.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/3afd7cdbe830e8933390.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_781497.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/6f4b2eed4140deaa004f.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_291476.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/66f8377c70ce7675c9be.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_577087.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f6c79a0e0a20255b0850.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_343177.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/793d59b8c5b7e85297ca.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_905250.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/42cc52625ba75700c1b4.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_972168.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/f37dd1bae522dd9d2af5.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_235229.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/0fe06dfa30eb068c5143.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_730263.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/c2c169c3e88ead90cee2.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_104-2023_natsionalnyy_standart_rossiyskoy_/meganorm_551561.png",
+          "path": "data/sources/gost/assets/gost_r_2_104_2023/be24f1e84c240d787891.png"
+        }
+      ]
+    },
+    {
+      "standard": "ГОСТ 2.305-2008. Изображения — виды, разрезы, сечения",
+      "source_url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.htm",
+      "raw_html": "data/sources/gost/html/gost_2_305_2008.html",
+      "raw_sha256": "2f02697655283f3435c4d53307a5720138a34a593f78f1b75877eb5fb7ecd30f",
+      "markdown": "data/knowledge/standards/gost_2_305_2008.md",
+      "markdown_sha256": "88f88ab5d9dcb72fe0ef0853daec7f43da99d0a10899aa20859de04ff77931f9",
+      "text_characters": 31434,
+      "markdown_characters": 39992,
+      "tables": 7,
+      "offline_html": "data/sources/gost/offline/gost_2_305_2008.html",
+      "illustrations": [
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x007.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/1864c516a3e336cbaba2.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x015.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/4638be285ade440e5e56.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x023.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/b1b8ee78befea94cf99f.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x032.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/233b839978f082e16c34.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x036.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/87fdff895b6323672a23.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x043.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/da9d939258f0ba3eedc2.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x045.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/4d4406e68ae7e4ee3bcb.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x053.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/1d9f74b47e56b23a714c.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x055.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/603aa4ea186214ebf3b1.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x061.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/6e35453603e8acf6f17c.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x068.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/3ae94c551906002ec7c4.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x070.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/8319d25530ef9c4ef052.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x087.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/0b3f136d908d93b9954c.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x093.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/21721720e90da9ec7071.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x095.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/c767a9790b21efaeada5.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x100.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/1d6933684a6f11c857f8.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x101.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/9266ca2064e730caf04b.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x102.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/a7684f0f391b8da0e936.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x103.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/ccaf2d4d417830147e53.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x104.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/fd3a6d12515e3cf38c5b.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x105.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/869f6406439ccfe3c8d6.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x087.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/0b3f136d908d93b9954c.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x107.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/dd65afd3fdda7b2daf26.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x109.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/410f24c393cc16214fd0.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x111.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f63ad76971420b1727ca.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x113.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/fc16f51cd103ec186fc0.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x115.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/860d1f328868567fde5e.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x116.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/e3173fcb5c6d4db531e4.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x117.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/71d3a7c8fce0967c48c2.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x119.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/81ee4945c7dd224a1f63.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x121.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/b4b46be32d6710b78c93.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x123.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f4563c924b4985016be3.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x125.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/fafd63e3585e516b049e.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x087.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/0b3f136d908d93b9954c.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x127.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/40195b6d257fd2fac25f.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x129.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/faa33efc3b699ac16fcb.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x131.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/1cb345d0fdadf07fcda0.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x133.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/8653239eee894bb0cf1f.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x135.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/303424b5a96923eaa3fd.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x137.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/38f842af96fa19f1892d.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x139.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/d96af044b616b2fd3d09.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x141.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/ed91d50261721e3188bc.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x087.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/0b3f136d908d93b9954c.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x143.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/bbb4a78099d5aefe8867.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x144.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/9fa6af21e06da4c2b7dc.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x145.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f74986c8ec563b0bd662.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x146.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/d2c26c4b503b2f4dc4aa.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x148.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/241a4a8d8f25570066fc.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x149.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/3e8905a2d83ce23f9aae.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x150.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/12597a343f2a965d6cd2.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x097.gif",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f7d8d3a550dfb649146c.gif"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x152.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/30a3cd244cc037d42a13.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x153.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/50d4188de3f63518457f.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x154.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/0b01a32f1a65cd42663d.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x156.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/1588d99c978101ed7bbf.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x157.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/47aad7be073a7bc7035b.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x158.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/302fb0f5935d9df240fd.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x160.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f237d982cd2e3befe2dd.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x162.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/7d42fa113e0b7b46a8cd.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x163.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/d6d7d86f7e21301339fd.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x166.png",
+          "path": "data/sources/gost/assets/gost_2_305_2008/d26354c56670812d96ab.png"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x167.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/66cb1a7012ea7f6386fa.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x168.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/ff2cbd41cd04a7c9c546.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x171.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/99901e782a62bd64a385.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x172.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/6d96913f4058e9b8b49b.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x174.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/8def58e1a119aa2dee46.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x175.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/fea3181f85e33c7e9630.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x178.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/2e652bd60b974b7b70ab.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x179.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/b41dedcc946caa91b185.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x180.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/4fd866a77d0f24c357a8.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x181.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/7f25fc9780a16c43f085.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x182.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/f8350688a0b19e7f99b5.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x183.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/af4c51bff3a833ce5e19.jpg"
+        },
+        {
+          "url": "https://files.stroyinf.ru/Data2/1/4293830/4293830650.files/x184.jpg",
+          "path": "data/sources/gost/assets/gost_2_305_2008/94726d6ecdd6e12cd7f5.jpg"
+        }
+      ]
+    },
+    {
+      "standard": "ГОСТ 2.307-2011. Нанесение размеров и предельных отклонений",
+      "source_url": "https://meganorm.ru/Data2/1/4293800/4293800223.htm",
+      "raw_html": "data/sources/gost/html/gost_2_307_2011.html",
+      "raw_sha256": "06b28fa4aa8897b168a7e5f5d746045795acfa72e76bcfe5b1811179d5a531f7",
+      "markdown": "data/knowledge/standards/gost_2_307_2011.md",
+      "markdown_sha256": "bab06427d222c675d7363ea1be8a72ab9a6d8b99412a3adfabfadebc4c60ced0",
+      "text_characters": 38985,
+      "markdown_characters": 51581,
+      "tables": 20,
+      "offline_html": "data/sources/gost/offline/gost_2_307_2011.html",
+      "illustrations": [
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x107.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/81f89f31f9d3f5be4f5f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x108.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6581857a849ef99fffde.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x109.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fc5eccd5733575ab71c8.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x110.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fde5c9428f978e55c19c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x111.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/7a1faf3445a7a57a7823.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x112.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/b163d8aa62b444e89675.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x113.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/a54a8e9779963b6e993f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x114.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/3f5d902930e5d184fd45.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x115.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/63e432393c8b0a64acd5.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x116.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/709826f3b993440bae8d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x117.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8c59de0530c3ac6d3017.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x118.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/7e82183856b9c70d4d12.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x119.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/7071513565049aa86ad9.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x120.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/d9813e5e985c2c4a1306.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x121.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/e36738d5ac1257a100e4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x122.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/b8b5bc724d88f15cc679.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x123.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/b4e310ab1efe2b41bc25.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x124.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8264566fb167d560540e.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x125.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f9f21950c1366f4e536d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x126.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/adc1d961771b128f13ed.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x127.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/858495730c46e75fa201.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x128.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/91eb1c9519f3b3f1cf8d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x129.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/27a5b26833f5555774eb.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x130.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/1132dbcc1b300a1f9ec1.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x131.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/3a8fb57fb3f364aa89d4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x132.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/cf4e6c0905f1590fa21f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x133.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/59c81a99c869572c90e8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x134.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/90482571ea03def54fde.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x135.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8ab21cecc323c77b0609.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x136.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/9cab340f0b79f95d22c8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x137.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/add20ac7e91b767a85c0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x138.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/b5e8543ddc5de09cbe3b.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x139.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/dc34ccba6361b49fca65.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x140.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/2e64fc587b6f62ec76a0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x141.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f1b796db15c0d13565c0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x142.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/ddfdaa241e13fc7681f1.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x143.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f395f09ce7e24776761b.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x144.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8792a1c251efc6cedc54.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x145.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/4968f09c8d1e45872526.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x146.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/00aab812407aade734f4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x147.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/9e416ee5b878f2863dc5.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x148.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/0902920123344bb6cc06.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x149.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fc091b84ef8a54edd3c7.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x150.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/a527957b93ab7f2cdf42.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x151.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/1fab4fa1ab8323fdf43e.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x152.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f947259792306aa8861c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x153.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/ef6d968d5ca300742611.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x154.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6940febbcc5890d383c3.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x155.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/be9082f352afe9a4d92c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x156.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/5a3a7225e834ab7cd0b2.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x157.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/4a1d32ebc94139e40657.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x158.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/646e2f151334664ea270.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x158.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/646e2f151334664ea270.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x159.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/64168e307edf085e62b6.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x160.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fd827e83d770416c5e9f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x161.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/2d8c60c611025420e1d0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x162.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8bdb2ade24e60e232db8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x163.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/17f2db89827142926d04.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x164.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/024f77eb304cf8c2a83d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x165.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/9178758a50800a8742ca.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x166.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6e963458ed0b67f18dd4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x167.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/60eeacc8484e55a3b6d8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x168.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/9cee87c6d4b241b771f4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x169.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/d0460625e16e48bb01fa.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x170.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/c66984810696436392c8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x171.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/0d734739f1c465839152.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x172.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8380e2f129b1b648e9fd.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x173.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/83de6121c7aaa3b42902.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x174.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/4bca1962f7c1cb3edbe8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x175.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6da6801259d9508ef388.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x176.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/3321fce586bdba45b390.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x177.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6f91d4906370af540eef.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x178.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/3ddc79d9ec52ba42c9e3.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x179.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/eeffd60aa8cb61330ee0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x180.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/87e4ceaad6737427caac.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x181.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/0613cadb8194f5f4c3df.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x182.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/6816072913ecd317ca4c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x183.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/66e7d7c84cb80678e79f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x184.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/d43a15bd56b51348f5b8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x185.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/57609e8f1acc86a9fc00.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x186.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/b9d530391cd68858c48c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x187.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/7dd4edb9b7bdeedf32f6.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x188.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/97446ea97bd9ca92f746.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x189.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/ec9b441667b00b69274d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x190.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/5809a63026ec3be7a3e4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x191.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/98d90f13ff1480c86382.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x192.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/20f41ec45e1071721366.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x193.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/a0acd922817b5f69e2f4.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x194.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/18506092b7942bfa8434.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x195.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/dd7aa789e9c5075b2084.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x196.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/153f19ee11048d6f311c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x197.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/22912b01d0345a5f071a.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x198.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/5d42b23dd0bf1b09ce01.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x199.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f54750afcb8e84b887d9.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x200.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/7edc1a1b3d95553460f1.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x201.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/41bfd79edf1241fe0e6e.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x202.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/d6d51bfbe2e6f4ca2b06.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x203.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/f8f8efc7c4ef3f943ac8.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x204.png",
+          "path": "data/sources/gost/assets/gost_2_307_2011/2dcbd47fab554e423537.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x205.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/a076b3694ce5e85e9576.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x206.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/e22216b1ebdec264c8e1.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x207.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fcde199b353b44dcd77b.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x208.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/1f9f3a41c4cd5a9c4133.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x209.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/cb41afbaaf7f216eb7b2.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x210.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/fc9adb9fc9b306c18d43.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x211.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/a5b87aecb84b113d4bd4.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4293800/4293800223.files/x212.jpg",
+          "path": "data/sources/gost/assets/gost_2_307_2011/8b1eb29958bc4d4f5995.jpg"
+        }
+      ]
+    },
+    {
+      "standard": "ГОСТ 2.309-73. Обозначения шероховатости поверхностей",
+      "source_url": "https://meganorm.ru/Data2/1/4294852/4294852118.htm",
+      "raw_html": "data/sources/gost/html/gost_2_309_73.html",
+      "raw_sha256": "f211fa534794e3d8c7434d9197d8c13938076a491924a8d0abae6c1110b9021e",
+      "markdown": "data/knowledge/standards/gost_2_309_73.md",
+      "markdown_sha256": "30813f1335835bfaff99e6b6cbb586d4e6fad65ca8cca65b04cdc62ae5295ae8",
+      "text_characters": 10476,
+      "markdown_characters": 16630,
+      "tables": 4,
+      "offline_html": "data/sources/gost/offline/gost_2_309_73.html",
+      "illustrations": [
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x008.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/617d59ad5830acc7c538.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x009.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/ae84db23cf8db143d446.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x010.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/0bf2b7e76792d46acf6d.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x011.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/634c418adca0bcfa0884.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x012.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/c1abc751a292e69ef290.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x013.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/9cbe5acd11a42babeec3.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x014.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/20fd4c239a4241f910aa.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x014.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/20fd4c239a4241f910aa.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x015.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/ba5a1268fb751170ca2d.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x054.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/203c58713f54208fbd55.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x056.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/66627bc670c38e1b73a2.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x057.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/ac1db68c47f8f4439f4a.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x058.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/56449e0632ef8ce4fb01.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x059.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/e71b4dd7334c662f2646.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x060.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/d5601eddec0855ba8ab8.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x061.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/55883de9cf9b0a0c50c3.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x062.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/c70d5753577a5b5df2bb.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x063.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/bd4cc15a47e311f7d657.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x064.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/e8f33b3366f472132d07.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x065.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/53dac1d7beafe3e4f724.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x066.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/fdba263ba919cc73944b.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x067.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/8a357dedca5225a38443.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x068.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/7330c7078cdca0f22253.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x069.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/c54b6cb2aabb6458f81f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x070.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/884abac0330050f5a91f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x071.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/73e52e9b40f753718f79.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x072.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/c513ab90d332775580a5.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x073.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/1ab0c51b86cf2faabb44.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x074.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/f553249af4a25e1f487c.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x075.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/976c3612e843cacb6503.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x076.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/e0f8018587660c218e47.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x077.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/567958d852e2a12049be.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x078.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/783a6b7a9f038082e8e9.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x079.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/34e1b17a86015788fc86.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x080.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/270b9f22793455694716.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x081.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/096cde7e4bf78d5f709c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x082.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/bdea055490a0617f0cfe.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x083.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/ff9bc7e34b1e39cf628c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x084.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/8e7e30e8aa999aa0713e.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x085.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/214d6f9381004af35f8f.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x086.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/cf42b0e3a46140ef0244.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x087.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/02344c889ef9ed94ca2b.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x088.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/8f50ae79c2f62c7c0640.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x089.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/894354eab04656dd73f3.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x090.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/71240f13ffa1ae9013ee.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x091.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/d5e12b2e96fe7cb20fcd.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x092.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/ff5a8ff8821ef5557743.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x093.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/2896c8b3bfebb56c23df.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x094.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/38b1c3731e88022b3bc0.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x095.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/4dd4aefa363a0c1326a2.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x096.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/bbd8a876a020692decaf.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x097.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/f84a67a07da7f439342c.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x098.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/2516b659eb30ad43aff3.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x099.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/8cfae140afbb618b2564.jpg"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x100.png",
+          "path": "data/sources/gost/assets/gost_2_309_73/4b669d890827e05db0f4.png"
+        },
+        {
+          "url": "https://meganorm.ru/Data2/1/4294852/4294852118.files/x101.jpg",
+          "path": "data/sources/gost/assets/gost_2_309_73/3e4007f9bc40fcb356ab.jpg"
+        }
+      ]
+    },
+    {
+      "standard": "ГОСТ Р 2.316-2023. Правила нанесения надписей, технических требований и таблиц на графических документах",
+      "source_url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy.html",
+      "raw_html": "data/sources/gost/html/gost_r_2_316_2023.html",
+      "raw_sha256": "987794778d5cecb3e90fa212091bfd96ceaef5cd767ef006879e374cc4ab3558",
+      "markdown": "data/knowledge/standards/gost_r_2_316_2023.md",
+      "markdown_sha256": "cc5340fcf3c8b72247485170138fff9233566d3837675908ef10f4e84a68eb9f",
+      "text_characters": 21018,
+      "markdown_characters": 22768,
+      "tables": 5,
+      "offline_html": "data/sources/gost/offline/gost_r_2_316_2023.html",
+      "illustrations": [
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_434074.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/3556c47aa64c31db0601.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_818035.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/0dba205015cfab966752.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_598721.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/61f7f0304134c1c5de43.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_784740.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/230bd25d9a6304c5b6a8.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_678063.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/b3b3f1b226c81b20c95b.png"
+        },
+        {
+          "url": "https://meganorm.ru/mega_doc/norm/gost-r_gosudarstvennyj-standart/0/gost_r_2_316-2023_natsionalnyy_standart_rossiyskoy_/meganorm_990162.png",
+          "path": "data/sources/gost/assets/gost_r_2_316_2023/14b313dbd4a9661043ff.png"
+        }
+      ]
+    }
+  ]
+}

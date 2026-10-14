@@ -1,0 +1,8 @@
+# Размер и целевое перекрытие в ТОКЕНАХ tiktoken.
+name: baseline
+chunk_strategy: recursive_tokens
+token_encoding: cl100k_base
+chunk_size: 256
+chunk_overlap: 40
+embedding_model: text-embedding-3-small
+top_k: 4

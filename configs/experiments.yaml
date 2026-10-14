@@ -1,0 +1,7 @@
+# Декартово произведение: 2 * 2 * 1 * 2 * 1 = 8 вариантов.
+# Для первого платного запуска CLI ограничивает число вариантов и примеров.
+chunk_strategy: [fixed, paragraph]
+chunk_size: [350, 700]
+chunk_overlap: [80]
+embedding_model: [text-embedding-3-small, text-embedding-3-large]
+top_k: [4]

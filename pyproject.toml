@@ -1,0 +1,50 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rag-chat"
+version = "0.1.0"
+description = "RAG-чат: Qdrant, SQL-память, Ragas и Langfuse"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "openai>=1.100,<3",
+  "qdrant-client>=1.15,<2",
+  "sqlalchemy>=2.0,<3",
+  "psycopg[binary]>=3.2,<4",
+  "pydantic-settings>=2.10,<3",
+  "streamlit>=1.49,<2",
+  "typer>=0.16,<1",
+  "pyyaml>=6,<7",
+  "ragas>=0.4,<0.5",
+  # Ragas 0.4.3 импортирует legacy VertexAI из community; в 0.4 он удалён.
+  "langchain-community>=0.3.27,<0.4",
+  "langchain-openai>=0.3.28,<1",
+  "langchain>=0.3.27,<1",
+  "langfuse>=4.17,<5",
+  "pypdf>=6,<7",
+  "langchain-text-splitters>=0.3.11,<0.4",
+  "tiktoken>=0.7,<1",
+]
+
+[project.scripts]
+rag-chat = "rag_lab.cli:app"
+rag-lab = "rag_lab.cli:app"
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.12,<1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rag_lab"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+ignore = ["E501"]
